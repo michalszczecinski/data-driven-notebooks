@@ -7,6 +7,7 @@ Repository for interactive, data supported notes.
 1. Statistics
 1. Physics
 1. Electronics
+1. Engineering
 
 ## Idea
 
