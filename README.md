@@ -4,10 +4,11 @@ Repository for interactive, data supported notes.
 ## Categories
 
 1. Mathematics
-1. Statistics
-1. Physics
-1. Electronics
-1. Engineering
+2. Statistics
+3. Physics
+4. Engineering
+5. Electronics
+6. Programming
 
 ## Idea
 
@@ -26,8 +27,5 @@ Why?
 
 1. Notebook should cover specific chunk of knowledge.
 2. Notebook should be serve as a memorable and useful reference for a concept.
-3. Notebook should include interactive elements.
+3. Notebook should include interactive elements (for example simulation, plots, data-driven analysis etc.).
 4. Notebook should include important definitions and interesting examples.
-
-
-
