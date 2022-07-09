@@ -31,7 +31,7 @@ Notebooks covering statistics.
 |4|Descriptive Statistics|[stats_stdev_experiment](https://colab.research.google.com/drive/1xh4v5OZ0sXlFo13_rbuT-djNAfH9bSMk#scrollTo=FC532KQbCXDg)||
 |6|Continuous Random Variables|[stats_distributions](https://colab.research.google.com/drive/1DnalE5bgw158PU8Tb_RtDtUuWBEVxQy4)||
 |7|The Central Limit Theorem|[stats_central_limit_theorem](https://colab.research.google.com/drive/1elV-SDO90qoOBMAjurr9ELFZU-RPwWHa)||
-|8|Confidence Intervals|stats_standard_error||
+|8|Confidence Intervals|[stats_standard_error](https://colab.research.google.com/drive/12hZ5IRXdsi2EIgTYCK5tKSNC7DVfiN8f?usp=sharing)||
 |9|Confidence Intervals|[stats_confidence_interval](https://colab.research.google.com/drive/1ZVR9CSoLeoO_P9UY-B59U-6NBkzJt9lb?usp=sharing)||
 ||Descriptive Statistics|[stats_quantiles](https://colab.research.google.com/drive/1M-dthy4apKsK1nHPDnlIqFTjbc7GjXZd)||
 ||Probability|[stats_basic_probabiity](https://colab.research.google.com/drive/1COe2kxqXBAQEg7Ac0-FanqwXJcpwVGj-)|TODO: need to consolidate more notebooks on basic probability|
