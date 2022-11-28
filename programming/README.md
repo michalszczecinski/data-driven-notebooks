@@ -7,3 +7,4 @@
 |5|[CP_C_structs](https://github.com/michalszczecinski/data-driven-notebooks/blob/master/programming/CP_C_structs.ipynb)| Using structs to create your own structured data types.|
 |6|[Bitwise operations](https://colab.research.google.com/drive/1JmDWUIrMFxMNJB_6hGOn3Yow2pO72sb7#scrollTo=4cqJj3jpwme2)| Manipulating bits.|
 |7|calculating_checksum| Calculating checksum to check quality of data communication.|
+|8|[C mini project 1 - linear regression](https://github.com/michalszczecinski/data-driven-notebooks/tree/master/programming/project_1_simple_linear_regression)|Implementing simple linear regression.|
