@@ -80,7 +80,8 @@ tree -d
 
 The big advantage that we get for it is that we can now open and run any notebook end-to-end, directly in a free, cloud Colab computing environment, even on an ipad or phone!
 
->> Just click on the  `Open in Colab` button at the top of the notebook.
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+> Just click on the `Open in Colab` button at the top of the notebook.
+>
+> ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 For more details you can check the `dev` folder.
