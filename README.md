@@ -34,10 +34,12 @@ Personal knowledge repository with interactive, data driven notes and tools.
 
 ## Guidelines 
 
-1. Notebook should cover specific chunk of knowledge or task.
-2. Notebook should be serve as a memorable and useful reference for a concept.
-3. Notebook should include interactive elements (for example simulation, plots, data-driven analysis etc.).
-4. Notebook should include important definitions and interesting examples.
+1. Cover specific, precise chunk of knowledge or task.
+2. Structure note as a quick and useful reference for a concept.
+3. Include interactive elements like data tables, simulations, plots, and data-driven analysis. 
+4. Describe essential definitions.
+5. Demonstrate interesting examples and canonical solutions to typical problems.
+6. Include an exciting image or a funny element to make it memorable and improve recall/knowledge retention.
 
 ## Structure
 
@@ -74,4 +76,11 @@ tree -d
 
 ## Development notes
 
-**Please note:** This is NOT a development project, it is more of a general `learning and knowledge management repository of notes that use code as a vehicle for learning`. As such, it is being optimised for the ease of adding and accessing `bite-sized, self-contained information nuggets`. Currently I develop it directly from Colab Notebooks in a personal drive. Do not expect fancy coding practices, sophisticated environment set up or rigourous testing. You have been warned, for more details you can check the `dev` folder. :)
+**Please note:** This is NOT a development project, it is more of a general `learning and knowledge management repository of notes that use code as a vehicle for learning`. As such, it is being optimised for the ease of adding and accessing `bite-sized, self-contained information nuggets`. Currently I develop it directly from Colab Notebooks in a personal drive. Do not expect fancy coding practices, sophisticated environment set up or rigourous testing. 
+
+The big advantage that we get for it is that we can now open and run any notebook end-to-end, directly in a free, cloud Colab computing environment, even on an ipad or phone!
+
+>> Just click on the  `Open in Colab` button at the top of the notebook.
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
+For more details you can check the `dev` folder.
