@@ -37,14 +37,14 @@ jupyter notebook
 
 ## TODO
 
-1. Update links in the index tables and images
-2. Set up links in a way that they keep working even if I change the repository structure (eg. by using relative links)
-3. Investigate if colab can automatically execute functions from utils folder
-   1. if yes, then could move common functions from notebooks to the central utils folder
-   2. and could add tests for them
-4. Add new notebook template to templates folder to keep it minimalistic
-   1. Remove unnedeed parts from previous notebooks
-5. Set up and test notebooks such that they can be run and developed in a same way both in VS code locally as well as in an online colab environment
+1. Update links in the index tables and images to point to the new repository structure
+2. Set up links in a way that they keep working even if I change the repository structure (eg. by using relative links).
+3. Investigate if colab can automatically execute functions from utils folder.
+   1. if yes, then move common functions from notebooks to the central utils folder.
+   2. and start adding tests for those functions.
+4. Add the new notebook template to templates folder to keep it minimalistic.
+   1. Remove not necessary parts and boilerplate from the previous notebooks.
+5. Set up and test notebooks such that they can be run and developed in a same way both in VS code locally as well as in an online colab environment.
 6. Create requirements file and specify dependencies.
 7. Investigate automated run tests and CI workflow for notebooks to make sure all notebooks run end-to-end.
 8. Investigate creating github pages for the repository to make it more accessible and easy to navigate.
