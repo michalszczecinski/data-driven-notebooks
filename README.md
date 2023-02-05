@@ -52,26 +52,38 @@ tree -d
 ```
 >>
 .
-├── business
-├── computer_science
-│   ├── cp_c
-│   │   └── cp_c_project_1_simple_linear_regression
-│   ├── microcontroller_programming
-│   ├── python
-│   ├── r
-│   └── sql
-├── engineering
-│   ├── automation_and_control
-│   ├── electricity_and_electronics
-│   ├── general
-│   └── mechanics
-│       ├── engineering_mechanics
-│       ├── mechanical_aspects_of_mechatronics_systems
-│       └── strength_of_materials
-├── mathematics
-├── physics
-├── statistics
-└── tools
+├── dev
+│   ├── data
+│   ├── images
+│   ├── templates
+│   ├── tests
+│   └── utils
+└── subjects
+    ├── analytics
+    ├── business
+    │   ├── economics
+    │   ├── entrepreneurship
+    │   ├── finance
+    │   └── management
+    ├── computer_science
+    │   ├── cp_c
+    │   │   └── cp_c_project_1_simple_linear_regression
+    │   ├── microcontroller_programming
+    │   ├── python
+    │   ├── r
+    │   └── sql
+    ├── engineering
+    │   ├── automation_and_control
+    │   ├── electricity_and_electronics
+    │   ├── general
+    │   └── mechanics
+    │       ├── engineering_mechanics
+    │       ├── mechanical_aspects_of_mechatronics_systems
+    │       └── strength_of_materials
+    ├── mathematics
+    ├── physics
+    ├── statistics
+    └── tools
 ```
 
 ## Development notes
