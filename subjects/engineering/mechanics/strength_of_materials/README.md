@@ -40,6 +40,19 @@ List of chapters covered in the Strength of Materials course for Mechatronics En
 5. Combined Stresses
 6. Experimental Stress Analysis
 
+## Key Problems
+
+Description of key problems that can be solved using the content of this course.
+It includes canonical problems found in the chapters plus highlighted problems came across in online lectures/youtube videos.
+
+Also should highlight the problems that are common on the exam paper at Polytechnic, which reflect the key concepts that students are expected to know and are tested on. Where possible (if time permits) will try to create relevant notebook and link to it. 
+
+
+1. Calculate axial strain knowing forces, dimension and material properties.
+2. Calculate axial deformation due to thermal expansion knowing temperature, dimension and material properties.
+3. Calculate the angle of twist knowing the applied torque, dimensions and material properties.
+
+<!-- 3. Calculate the maximum stress in a beam knowing the applied load, dimensions and material properties. -->
 
 ## References
 
