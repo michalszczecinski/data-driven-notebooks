@@ -19,4 +19,4 @@ It can include canonical problems found in the subject chapters plus highlighted
 
 We should highlight the problems that are common on the exam papers at Polytechnic, which reflect the key concepts that students are expected to know and are tested on. This should serve as a good reminder of the most important skills and concepts to refer to.
 
-Where possible (if time permits) will try to create relevant notebook and link to it. 
+Where possible (if time permits) will try to create relevant notebooks and link to them. 
