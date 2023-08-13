@@ -38,11 +38,13 @@ jupyter notebook
 ## How to add new notebooks
 
 ```bash
-# check if it can be all done in one command
+# Modify the paths to match the new notebook location and subject
+# TODO: check if it can be all done in one command
 # TODO: add .sh script I can run with arg for the new notebook name.
 # (optional) choice of template (m - minimal , f - full)
 # (optional) add it to the path too so can run it directly as alias and standard command
 # copy template
+cd data-driven-notebooks
 cp dev/templates/knowledge_notebook_minimal_template.ipynb subjects/engineering/mechanics/strength_of_materials
 # rename template
 mv  subjects/engineering/mechanics/strength_of_materials/knowledge_notebook_minimal_template.ipynb subjects/engineering/mechanics/strength_of_materials/stress_strain.ipynb 
