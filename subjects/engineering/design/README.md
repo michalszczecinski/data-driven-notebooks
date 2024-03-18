@@ -17,7 +17,7 @@
 
 ## Key Problems
 
-3D CAd
+3D CAD
 1. Create 3D model of the object.
 1. Create 2D engineering drawing of the object for manufacturing.
 1. Create 2D engineering drawing of the object for assembly.
